@@ -1,0 +1,6 @@
+Pillow
+South
+Django
+django-toolbelt
+mezzanine
+cartridge
